@@ -19,13 +19,11 @@ Run bundle to update Gemfile.lock:
 ```  
 bundle
 ```
-
 Run your local server from the command-line:
 
 ```
 rackup
 ```
-
 And visit your local server address:
 ```
 localhost:9292/
