@@ -13,9 +13,9 @@ The team followed XP principles, pair programming and switching partners every d
 
 ### Running makersBnB
 
-To use this app, simply fork and clone the repo.
+To use this app, fork and clone the repo.
 
-Run bundle to update your Gemfile.lock:
+Run bundle to update Gemfile.lock:
 ```  
 bundle
 ```
@@ -51,6 +51,21 @@ rspec
 * Basic payment implementation though Stripe.
 
 * Users can upload photos of the property to their listing.
+
+
+### Technologies used
+
+* Ruby
+* Sinatra
+* HTML5
+* CSS3
+* Git
+* Heroku
+* Postgresql
+* Rspec
+* Capybara
+* Bcrypt
+* Datamapper
 
 ### User Stories
 ```
