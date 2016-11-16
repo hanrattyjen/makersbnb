@@ -40,7 +40,7 @@ rspec
 
 ### High Level Spec
 
-*These are awesome features that we could implement and as such, are **in progress**.
+These are awesome features that we could implement and as such, are **in progress**.
 
 * Until a user has confirmed a booking request, that space can still be booked for that night.
 
@@ -64,6 +64,7 @@ rspec
 * Capybara
 * Bcrypt
 * Datamapper
+
 
 ### User Stories
 ```
